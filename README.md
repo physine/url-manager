@@ -1,1 +1,1 @@
-"# url-manager" 
+This is a little side project I started to manage my urls as I found scorling throught my bookmards cumbersome.  It's a web page stored on the client and accessed through the browser.  All the url data and whatnot is storing in a json file.
